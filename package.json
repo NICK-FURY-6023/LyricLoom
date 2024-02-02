@@ -1,0 +1,35 @@
+{
+  "name": "hydra",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Src/Shard.js",
+  "scripts": {
+    "start": "node Src/Shard.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/"
+  },
+  "keywords": [],
+  "author": "NICK FURY",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com"
+  },
+  "homepage": "https://github.com/",
+  "dependencies": {
+    "@top-gg/sdk": "^3.1.5",
+    "discord.js": "^14.13.0",
+    "i": "^0.3.7",
+    "install": "^0.13.0",
+    "kazagumo": "^2.3.2",
+    "kazagumo-spotify": "^1.2.0",
+    "mongoose": "^6.6.5",
+    "npm": "^9.8.1",
+    "shoukaku": "^3.4.0",
+    "soundcloud": "^3.3.2",
+    "systeminformation": "^5.21.8",
+    "undici": "^5.13.0"
+  }
+}
