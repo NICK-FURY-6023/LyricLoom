@@ -9,7 +9,7 @@ const { join } = require('path');
 const PlayerExtends = require('./DispatcherExtend');
 const spotify = require('./Spotify');
 const Topgg = require("@top-gg/sdk");
-const topggApi = new Topgg.Api("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjEwNDQ1OTYwNTA4NTk2NjM0MDEiLCJib3QiOnRydWUsImlhdCI6MTY5NTIyMDMzOX0.Avm5V-TERBa_hq9Fbh35lX7wmMNWe5QF7Pvhl_bAUIE");
+const topggApi = new Topgg.Api(""); // paste your top.gg api key
 const client = require('discord.js')
 const Intents = [
     GatewayIntentBits.Guilds,
@@ -145,6 +145,7 @@ class Savaan extends Client {
         });
     }
 
+// you can add your idea
     updateActivityStatus() {
         const activities = [
             { name: 'JAI SHREE RAM 🚩', type: ActivityType.PLAYING },
