@@ -1,6 +1,6 @@
 const { ButtonStyle } = require("discord.js");
 module.exports = {
-    Token: "MTA0NDU5NjA1MDg1OTY2MzQwMQ.GYplDg.3u-IRyEB3O7gxIxnlk_LY2-mMkwu9u2v98gh38",// enter your token
+    Token: "paste your bot token",// enter your token
     Prefix: "+", // prefix here
     Client: {
         ID: "11044596050859663401", // client id
@@ -13,10 +13,10 @@ module.exports = {
         "green": ButtonStyle.Success
     },
     spotify: {
-        ID: "fd1506eedec640d28ff077eb4a8355b0", // spotify client id
-        Secret: "d18b66f0dab44112b7c98a0fc24a2ae7", // spotify client secret
+        ID: "", // spotify client id
+        Secret: "", // spotify client secret
     },
-    MongoData: "mongodb+srv://galaxydb:galaxybotdb@galaxydb.yndfw2d.mongodb.net/?retryWrites=true&w=majority",// monngo db
+    MongoData: "",// monngo db
     EmbedColor: "#FF0000", // embed color
     Owners: ["777538136782667796", "761635564835045387"], // owners in array
     Nodes: [
@@ -28,8 +28,8 @@ module.exports = {
         }
     ],
     hooks: {
-        guildAdd: 'https://discord.com/api/webhooks/1139463060109676705/sKRucGPA_L3DrjVMlmCw-aTnNPCtkm87GubuuV8obP2eB5WairD9-2umDFtUDCEKbolj',
-        guildRemove: 'https://discord.com/api/webhooks/1139463421369270312/-R-l6pEPuv3hOr5_tG7CW3LGpdiiiA9LBmdfE-WE2INMry0-iKQNNVAYbITs_3zQ0eKq',
+        guildAdd: '',
+        guildRemove: '',
     },
     links: {
         invite: 'https://discord.com/api/oauth2/authorize?client_id=1044596050859663401&permissions=427684130161&redirect_uri=https%3A%2F%2Fdiscord.gg%2FCdCfgSC3qy&response_type=code&scope=identify%20guilds%20email%20bot%20guilds.join%20gdm.join%20applications.commands%20messages.read%20applications.commands.permissions.update',
