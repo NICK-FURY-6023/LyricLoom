@@ -35,7 +35,7 @@ module.exports = new Object({
             let evaled = await eval(code);
             if (typeof evaled !== 'string') { evaled = require('util').inspect(evaled, { depth: 0 }) }
             if (code.includes('client.config.Token') || code.includes('client.config.MongoData')) {
-                evaled = 'No, shut up, what will you do it with the token?';
+                evaled = 'No, shut up, what will you do it with the token? lol_xd';
             }
             if (evaled.includes(client.config.Token)) {
                 evaled = evaled.replace(client.config.Token, 'CENSORED');
