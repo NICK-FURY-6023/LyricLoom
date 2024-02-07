@@ -3,7 +3,7 @@ module.exports = {
     Token: "paste your bot token",// enter your token
     Prefix: "+", // prefix here
     Client: {
-        ID: "11044596050859663401", // client id
+        ID: "", // client id
     },
     button: {
         "grey": ButtonStyle.Secondary,
