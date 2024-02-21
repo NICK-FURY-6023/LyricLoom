@@ -30,6 +30,6 @@
     "shoukaku": "^3.4.0",
     "soundcloud": "^3.3.2",
     "systeminformation": "^5.21.8",
-    "undici": "^5.13.0"
+    "undici": "^5.28.3"
   }
 }
