@@ -25,11 +25,11 @@
     "install": "^0.13.0",
     "kazagumo": "^2.3.2",
     "kazagumo-spotify": "^1.2.0",
-    "mongoose": "^6.6.5",
+    "mongoose": "^6.11.3",
     "npm": "^9.8.1",
     "shoukaku": "^3.4.0",
     "soundcloud": "^3.3.2",
     "systeminformation": "^5.21.8",
-    "undici": "^5.13.0"
+    "undici": "^5.28.3"
   }
 }
