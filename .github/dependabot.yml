@@ -9,4 +9,3 @@ updates:
     directory: "package.json" # Location of package manifests
     schedule:
       interval: "weekly"
-
