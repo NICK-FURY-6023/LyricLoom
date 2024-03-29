@@ -29,7 +29,7 @@
     "npm": "^10.5.0",
     "shoukaku": "^3.4.0",
     "soundcloud": "^3.3.2",
-    "systeminformation": "^5.21.8",
+    "systeminformation": "^5.22.6",
     "undici": "^5.28.3"
   }
 }
