@@ -23,7 +23,7 @@
     "discord.js": "^14.14.0",
     "i": "^0.3.7",
     "install": "^0.13.0",
-    "kazagumo": "^3.0.3",
+    "kazagumo": "^3.0.4",
     "kazagumo-spotify": "^2.0.1",
     "mongoose": "^8.3.3",
     "npm": "^10.7.0",
