@@ -1,9 +1,9 @@
 const { ButtonStyle } = require("discord.js");
 module.exports = {
-    Token: "paste your bot token",// enter your token
-    Prefix: "+", // prefix here
+    Token: "jngjdvjx2q43QgTS8i7DrwgCrkRf7nSRv8p8s0",// enter your token
+    Prefix: "=", // prefix here
     Client: {
-        ID: "", // client id
+        ID: "1184087537489285160", // client id
     },
     button: {
         "grey": ButtonStyle.Secondary,
@@ -13,17 +13,17 @@ module.exports = {
         "green": ButtonStyle.Success
     },
     spotify: {
-        ID: "", // spotify client id
-        Secret: "", // spotify client secret
+        ID: "fd1506eedec640d28ff077eb4a8355b0", // spotify client id
+        Secret: "d18b66f0dab44112b7c98a0fc24a2ae7", // spotify client secret
     },
-    MongoData: "",// monngo db
+    MongoData: "mongodb+srv://@cluster0.ofztv90.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",// monngo db
     EmbedColor: "#FF0000", // embed color
     Owners: ["777538136782667796", "761635564835045387"], // owners in array
     Nodes: [
         {
-            name: '65.109.65.23', // Node Name
-            url: '65.109.65.23:7477', //  Node Ip And : Port
-            auth: 'galaxy', // Node Password
+            name: '45.43.163.132', // Node Name
+            url: '45.43.163.132:88', //  Node Ip And : Port
+            auth: 'stonemusicgay', // Node Password
             secure: false
         }
     ],

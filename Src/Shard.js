@@ -4,7 +4,7 @@ const { ShardingManager } = require("discord.js");
 const manager = new ShardingManager("./Src/Saavan.js", {
     respawn: true,
     autoSpawn: true,
-    token: "paste your bot token",
+    token: "jngjdvjx2q43QgTS8i7DrwgCrkRf7nSRv8p8s0",
     totalShards: 1,
     shardList: "auto",
 });
