@@ -39,6 +39,7 @@ module.exports = new Object({
      * @param {import("discord.js").Message} message
      * @param {String[]} args
      * @param {String} prefix
+     * @param {String[]} emoji
      * @param {String} color
      */
     async execute(client, message, args, prefix, color) {
