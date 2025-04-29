@@ -28,7 +28,7 @@
     "mongoose": "^8.5.3",
     "npm": "^10.8.2",
     "shoukaku": "^4.1.0",
-    "soundcloud": "^0.2.0",
+    "soundcloud": "^3.3.2",
     "systeminformation": "^5.23.2",
     "undici": "^6.18.1"
   }
