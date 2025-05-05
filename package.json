@@ -20,7 +20,7 @@
   "homepage": "https://github.com/NICK-FURY-6023",
   "dependencies": {
     "@top-gg/sdk": "^3.1.6",
-    "discord.js": "^14.15.2",
+    "discord.js": "^14.19.3",
     "i": "^0.3.7",
     "install": "^0.13.0",
     "kazagumo": "^3.0.4",
