@@ -1,4 +1,4 @@
-# working 
+# (Discontinue From -1Jan-2027)
 # LyricLoom - Discord Music Bot with DJ System Support
 
 **Introduction:**
