@@ -1,4 +1,4 @@
-# (Discontinue From -1Jan-2027)
+# (Discontinue From -10Jun-2026)
 # LyricLoom - Discord Music Bot with DJ System Support
 
 **Introduction:**
