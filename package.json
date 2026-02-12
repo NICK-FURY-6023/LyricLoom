@@ -26,7 +26,7 @@
     "kazagumo": "^3.0.4",
     "kazagumo-spotify": "^2.1.0",
     "mongoose": "^9.1.1",
-    "npm": "^10.8.2",
+    "npm": "^11.10.0",
     "shoukaku": "^4.1.0",
     "soundcloud": "^3.3.2",
     "systeminformation": "^5.23.2",
